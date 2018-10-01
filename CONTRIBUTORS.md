@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Apratim Ranjan Chakrabarty](https://github.com/Hackhard)<br/>
+Place: Jamshedpur, India</br>
+About: Currently a sophomore interested in coding and development.<br/>
+Programming Language: Java, C, C++<br/>
+Email: abishekhmjee@gmail.com
