@@ -297,3 +297,9 @@ Place: Dharamshala, India<br/>
 About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
+
+Name: [Apratim](https://github.com/hackhard)<br/>
+Place: Jamshedpur, India<br/>
+About: Sophomore interested in devolopment and coding<br/>
+Programming Languages: C, C++, Java, Python<br/>
+Email: abishekhmjee@gmail.com
